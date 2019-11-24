@@ -8,7 +8,7 @@ Important files:
 
 Front end of the application
 
-### `RomanCalculation`
+### `RomanCalculation.js`
 
 The file is under 'src/functions/RomanCalculation' 
 The main component for Roman calculation. Consist of two input fields, a button and an answer value. The two input field names ,the button title and the heading-title are the props given to this function. 
