@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with Reactjs by Karan Nandkumar.
 
 ## Roman Calculator
 
@@ -11,7 +11,7 @@ Front end of the application
 ### `RomanCalculation`
 
 The file is under 'src/functions/RomanCalculation' 
-The main component for Roman calculation. Consist of two input fields, a button and answer value. The two input field names ,the button title and the heading-title are the props given to this function. 
+The main component for Roman calculation. Consist of two input fields, a button and an answer value. The two input field names ,the button title and the heading-title are the props given to this function. 
 
 
 ### `calculations.js`
